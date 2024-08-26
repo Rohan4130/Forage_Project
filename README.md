@@ -5,7 +5,7 @@ Social Buzz is a fast-growing technology unicorn that needs to adapt quickly to 
 **An audit of Social Buzz’s big data practice.**
 **Recommendations for a successful IPO.**
 **Analysis to find Social Buzz’s top 5 most popular categories of content.**
-## Problem Occurring:- 
+## Problem Occurring:
 Over 100,000  posts per day  36,500,000 pieces of content per year!
 But how to capitalize on it when there is so much?
 ## Uncover Insights
