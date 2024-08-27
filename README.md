@@ -10,14 +10,6 @@ Over 100,000  posts per day  36,500,000 pieces of content per year!
 But how to capitalize on it when there is so much?
 ## Uncover Insights
 ![image](https://github.com/user-attachments/assets/99853f30-9c72-4270-9df5-6aaf57849414)
-## Visualizing The Insights
-### Top Five Categories
-![image](https://github.com/user-attachments/assets/fbdefc66-88f5-4996-9016-e8890ea32ecc)
-### Continent Sentiment
-![image](https://github.com/user-attachments/assets/0eea8f3b-cc8d-429a-9796-a2c00abdf766)
-.
-...
-...
 ## Summary
 There are a total of 16 unique categories out of which animals and cooking are top one.
 In content, there are 4 types- Photo, video, GIF, and Audio out of which most people prefer photo and video.
